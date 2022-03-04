@@ -1,0 +1,9 @@
+my:
+  greetings: Welcome to the config server
+  list:
+    values: A,B,C
+
+db:
+  connection: connection
+  host: 127.0.0.1
+  port: 1201
